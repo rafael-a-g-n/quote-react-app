@@ -1,6 +1,10 @@
 # 🚀 Random Quote Generator 🚀
 
-This project is a visually appealing and responsive Random Quote Generator built with React. It fetches quotes from the [DummyJSON API](https://dummyjson.com/docs/quotes) and displays them with a sleek dark/orange color theme and smooth animations.
+This project is a visually appealing and responsive Random Quote Generator built with React. It fetches quotes from the [DummyJSON API](https://dummyjson.com/docs/quotes) and displays them with a smooth and engaging user interface.
+
+## 🌐 Live Demo
+
+Check out the live demo of the application [here](https://quote-react-app-opal.vercel.app/).
 
 ## ✨ Features
 
