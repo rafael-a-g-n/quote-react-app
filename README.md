@@ -32,29 +32,6 @@ This project is a visually appealing and responsive Random Quote Generator built
 *   **State Management:**  Using React's `useState` and `useEffect` hooks for managing component state and side effects.
 *   **Best Practices:**  Writing clean, well-structured, and commented code.
 
-## 🚀 Getting Started
-
-1.  **Clone the repository:**
-
-    ```bash
-    git clone &lt;repository_url&gt;  # (This won't work in WebContainers, as git is not available)
-    ```
-    Since you are in WebContainer and git is not available, you should already have the project files.
-
-2.  **Install dependencies:**
-
-    ```bash
-    npm install
-    ```
-
-3.  **Run the development server:**
-
-    ```bash
-    npm run dev
-    ```
-
-    This will start the development server, and you can view the app in your browser (usually at `http://localhost:5173` or similar).
-
 ## 🤝 Connect with Me
 
 Feel free to connect with me on LinkedIn:
